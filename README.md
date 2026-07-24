@@ -9,24 +9,16 @@
 </p>
 
 <p align="center">
-  <img src="./coding-girl.gif" width="100%" alt="Srujana Bhavani Coding">
-</p>
-
-<h1 align="center">👩🏻‍💻 Srujana Bhavani</h1>
-
-<p align="center">
-  <i>building, learning & figuring things out one commit at a time.</i>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/srujanabhavani10/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=E8A0BF" />
   </a>
+  &nbsp;
   <a href="mailto:srujanabhavani10@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMAIL-171717?style=for-the-badge&logo=gmail&logoColor=E8A0BF" />
   </a>
+  &nbsp;
   <a href="https://github.com/Srujanabhavani10">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=E8A0BF" />
   </a>
 </p>
 
