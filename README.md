@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./coding-girl.gif" width="100%" alt="Srujana Bhavani Coding">
+</p>
+
 # Hi, I'm Srujana Bhavani 👋
 
 🎓 Computer Science & Information Technology Undergraduate  
