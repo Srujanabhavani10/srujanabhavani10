@@ -118,15 +118,6 @@ A student-focused **mental health support platform** built around accessible wel
 
 **Tech:** Web Technologies • Frontend Development
 
----
-
-## 🌱 Currently Exploring
-
-→ Data Structures & Algorithms
-→ Backend Development & APIs
-→ AI Integration
-→ System Design
-→ Building things that make me Google "why isn't this working?" at 2 AM
 
 
 ## 🌱 Currently Exploring
